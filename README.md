@@ -66,6 +66,12 @@
 |:---:|:---:|:---:|
 | *日期选择+重复规则* | *AI服务商+人设配置* | *成就解锁进度* |
 
+<img width="526" height="892" alt="d30fb3dd6bbf81632f586e72737b123e" src="https://github.com/user-attachments/assets/c4acdc59-290a-4bf8-a43c-c46763a49b67" />
+<img width="524" height="920" alt="d9e94f6f5f97e033208daf276c1647c2" src="https://github.com/user-attachments/assets/88a9fc54-c8b6-44bd-adb5-061eafbbd456" />
+<img width="515" height="909" alt="e0cc4336d7f0cc22a575d3593d22ebed" src="https://github.com/user-attachments/assets/5586d3a3-6c27-462a-8462-3010d4664708" />
+<img width="524" height="916" alt="18746702aa2519bf902645cbc43a3b9a" src="https://github.com/user-attachments/assets/77ea0a8a-3b3c-4365-bf54-023754a9e351" />
+<img width="527" height="926" alt="d4fe14cab409303fd132646291d39ae9" src="https://github.com/user-attachments/assets/ac3c2193-5d07-4153-a6f9-f11122db81f7" />
+
 ---
 
 ## 🛠️ 技术架构
