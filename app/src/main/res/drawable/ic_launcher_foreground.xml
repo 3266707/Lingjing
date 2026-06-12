@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 灵境 Logo - 简化的山水水墨图标 -->
+    <!-- 山形 -->
+    <path
+        android:fillColor="#2E5A4B"
+        android:pathData="M30,75 L54,45 L78,75 Z" />
+    <!-- 云雾 -->
+    <path
+        android:fillColor="#F9F6F0"
+        android:pathData="M20,70 Q35,60 50,70 Q65,80 88,60"
+        android:strokeWidth="0" />
+    <!-- 灵气光圈 -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,54 m-30,0 a30,30 0,1 1,60 0 a30,30 0,1 1,-60 0"
+        android:strokeColor="#D9B45B"
+        android:strokeWidth="2" />
+</vector>

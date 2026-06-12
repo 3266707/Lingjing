@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">灵境</string>
+    <string name="app_name_en">Lingjing</string>
+
+    <!-- Navigation -->
+    <string name="nav_today">今日看板</string>
+    <string name="nav_attributes">属性面板</string>
+    <string name="nav_review">修炼札记</string>
+    <string name="nav_achievements">机缘录</string>
+    <string name="nav_settings">设置</string>
+
+    <!-- Attributes -->
+    <string name="attr_wisdom">灵根·悟性</string>
+    <string name="attr_physique">道体·体魄</string>
+    <string name="attr_perception">神识·感知</string>
+    <string name="attr_energy">真元·精力</string>
+    <string name="attr_will">丹心·意志</string>
+
+    <!-- Realms -->
+    <string name="realm_qi_refining">炼气期</string>
+    <string name="realm_foundation">筑基期</string>
+    <string name="realm_golden_core">金丹期</string>
+    <string name="realm_nascent_soul">元婴期</string>
+    <string name="realm_spirit_transformation">化神期</string>
+
+    <!-- Actions -->
+    <string name="action_generate_plan">生成今日计划</string>
+    <string name="action_add_task">添加任务</string>
+    <string name="action_complete">完成</string>
+    <string name="action_review">写修炼札记</string>
+    <string name="action_rest">休息</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_reminder">修炼提醒</string>
+    <string name="notification_channel_encourage">道心鼓舞</string>
+    <string name="notification_channel_achievement">机缘成就</string>
+
+    <!-- Settings -->
+    <string name="settings_api_key">DeepSeek API Key</string>
+    <string name="settings_persona">AI语气</string>
+    <string name="settings_theme">主题</string>
+    <string name="settings_backup">数据备份与恢复</string>
+    <string name="settings_about">关于灵境</string>
+</resources>
